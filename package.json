@@ -1,0 +1,22 @@
+{
+  "name": "ctyu.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctyu/ctyu.github.io.git"
+  },
+  "author": "ctyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctyu/ctyu.github.io/issues"
+  },
+  "homepage": "https://github.com/ctyu/ctyu.github.io#readme"
+}
